@@ -31,4 +31,4 @@ python main.py
 
 # Demo
 
-<img src="https://i.ibb.co/G7x80n7/converted.gif" width="300" >
+![PgnToGif](./converted.gif)

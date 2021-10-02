@@ -1,0 +1,47 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.09.28"]
+[Round "-"]
+[White "dzrajesh"]
+[Black "codingdesires"]
+[Result "0-1"]
+[CurrentPosition "r5k1/1p2pr1p/1p1p2p1/8/3b4/5P2/PP1B2PP/5R1K b - -"]
+[Timezone "UTC"]
+[ECO "B07"]
+[ECOUrl "https://www.chess.com/openings/Pirc-Defense"]
+[UTCDate "2021.09.28"]
+[UTCTime "10:35:43"]
+[WhiteElo "1020"]
+[BlackElo "1011"]
+[TimeControl "600"]
+[Termination "codingdesires won by resignation"]
+[StartTime "10:35:43"]
+[EndDate "2021.09.28"]
+[EndTime "10:43:19"]
+[Link "https://www.chess.com/game/live/26564392587"]
+
+1. e4 d6 2. e5 $2 {MISTAKE (-1.17)} ({(+0.52) The best move was} 2. d4 Nf6 3. Nc3
+e6 4. Nf3 Be7 5. Bd3 Nbd7 6. O-O O-O 7. Re1 e5 8. h3 c6 9. a4 exd4 10. Nxd4 Nc5
+11. Bf1 Re8 12. b4 Ne6 13. Nf5 a5 14. b5 Nc5 15. Bf4 Bxf5) 2... g6 {INACCURACY
+(-0.02)} ({(-1.17) The best move was} 2... dxe5 3. Nf3 Nc6 4. d3 Bf5 5. Nbd2 f6
+6. Nh4 e6 7. g4 Bg6 8. Bg2 Nge7 9. Nxg6 Nxg6) 3. exd6 cxd6 4. Bc4 Bg7 5. Qf3 Nf6
+6. Nh3 $2 $17 {MISTAKE (-2.78)} ({(-1.02) The best move was} 6. Ne2 Nc6 7. h3 O-O 8.
+Bb3 Bd7 9. d4 b5 10. Bg5 h6 11. Be3 Na5 12. O-O Bc6 13. Qg3 Nxb3 14. axb3 a5 15.
+c4 a4 16. bxa4 bxc4) 6... O-O 7. O-O Nc6 8. Ng5 {INACCURACY (-4.98)} ({(-3.25)
+The best move was} 8. Nf4 Bg4 9. Qg3 Nd4 10. Nc3 Nxc2 11. Rb1 e6 12. h3 Bf5 13.
+d3 d5 14. Bb3 Nd4 15. Ba4 e5 16. Nfe2 Ne6 17. Qf3) 8... Bf5 $2 {MISTAKE (-2.46)}
+({(-4.98) The best move was} 8... d5 9. Bd3 e5 10. Qd1 h6 11. Nxf7 Kxf7 12. c3
+e4 13. Be2 Ne5 14. d4 exd3 15. Bxd3 Nxd3 16. Qxd3 Bf5 17. Qd1 Kg8 18. Nd2 Nh5
+19. Nf3) 9. Qb3 $2 {MISTAKE (-5.69)} ({(-2.46) The best move was} 9. Qd1 d5 10.
+Be2 e5 11. Nf3 e4 12. Nh4 Be6 13. d3 Nd4 14. Nc3 b5 15. dxe4 Nxe4 16. Nf3 Nxc3
+17. bxc3 Nxf3+ 18. Bxf3 Bxc3) 9... Ne5 $4 $12 {BLUNDER (-0.98)} ({(-5.69) The best
+move was} 9... d5 10. Bd3 Nd4 11. Qa4 Ne4 12. Bxe4 dxe4 13. Nc3 a6 14. Rb1 b5
+15. Qa3 Nxc2 16. Qb3 Qd3 17. Nd5 Ra7 18. Qxd3 exd3 19. Rd1 Rc8 20. Ne3 Bd7 21.
+Nf1 Nd4 22. Ng3) 10. Bxf7+ $2 $17 {MISTAKE (-4.55)} ({(-0.98) The best move was} 10.
+Be2 Rc8 11. Na3 Nc6 12. c3 e5 13. d3 d5 14. Qxb7 d4 15. Nb5 h6 16. Nf3 dxc3 17.
+bxc3 Bxd3 18. Rd1 e4 19. Bxd3 exd3) 10... Nxf7 11. Nxf7 Rxf7 12. Nc3 Qb6 13.
+Qxb6 axb6 14. d4 Bxc2 15. Bd2 Ne4 16. Nxe4 Bxe4 17. f3 {INACCURACY (-7.59)}
+({(-5.63) The best move was} 17. Bc3 Bd5 18. a3 Raf8 19. f3 Rc8 20. Rac1 Bf6 21.
+Rce1 e6 22. Ra1 Kg7 23. Rab1 Rff8 24. Rbe1 h5) 17... Bd3 18. Rac1 Bxf1 19. Rxf1
+Bxd4+ 20. Kh1 (20. Kh1 Bxb2 21. Re1 Rxa2 22. Kg1 Kg7 23. Rd1 Bd4+ 24. Kf1 b5 25.
+Be1 e5 26. Rb1 Rb2 27. Rxb2 Bxb2 28. Ke2 Kf6 29. Kd3) 0-1

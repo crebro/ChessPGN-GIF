@@ -15,7 +15,7 @@ class Converter:
             self.board.push(move)
             converter = PositionToImage(self.board)
             images.append(converter.convert())
-        images[0].save("converetd.gif", format="GIF", append_images=images[1:], save_all=True, duration=1000, loop=0)
+        images[0].save("converted.gif", format="GIF", append_images=images[1:], save_all=True, duration=1000, loop=0)
 
 if __name__ == "__main__":
     converter = Converter("game.pgn")

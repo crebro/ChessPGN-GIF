@@ -1,4 +1,3 @@
-from typing import ItemsView
 import chess
 from PIL import Image
 

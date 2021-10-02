@@ -31,10 +31,4 @@ python main.py
 
 # Demo
 
-![PgnToGif](./converted.gif)
-
-<style type="text/css">
-    img {
-        width: 250px;
-    }
-</style>
+<img src="https://i.ibb.co/G7x80n7/converted.gif" width="300" >
